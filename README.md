@@ -1,0 +1,1 @@
+Using census data from 1996 found at http://archive.ics.uci.edu/ml/datasets/Adult, I decided to play around with some machine learning algos. This data is fairly clean and pulls together some interesting variable.
